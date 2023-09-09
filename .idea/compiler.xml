@@ -12,11 +12,6 @@
         <module name="ms-gateway" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ms-bills" target="17" />
-      <module name="ms-discovery" target="17" />
-      <module name="ms-gateway" target="17" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
